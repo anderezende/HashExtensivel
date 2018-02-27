@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1512515796 source:c:\users\anderson\desktop\hashextensivel\bucket.cpp
+	"Bucket.h"
+
+1510956331 c:\users\anderson\desktop\hashextensivel\bucket.h
+	<bits/stdc++.h>
+
+1512515842 source:c:\users\anderson\desktop\hashextensivel\diretorio.cpp
+	"Diretorio.h"
+
+1510956320 c:\users\anderson\desktop\hashextensivel\diretorio.h
+	<bits/stdc++.h>
+	"Bucket.h"
+
+1512107293 source:c:\users\anderson\desktop\hashextensivel\main.cpp
+	<bits/stdc++.h>
+	"Bucket.h"
+	"Diretorio.h"
+
